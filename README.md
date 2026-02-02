@@ -1,16 +1,16 @@
 # Developing a Neural Network Regression Model
 
-## AIM
+## AIM:
 To develop a neural network regression model for the given dataset.
 
-## THEORY
+## THEORY:
 Explain the problem statement
 
-## Neural Network Model
+## Neural Network Model:
 <img width="940" height="633" alt="Neural Network Model" src="https://github.com/user-attachments/assets/7da66cb1-90f2-4b4f-b659-629b2b61908a" />
 
 
-## DESIGN STEPS
+## DESIGN STEPS:
 ### STEP 1: 
 
 Create your dataset in a Google sheet with one numeric input and one numeric output.
@@ -43,7 +43,7 @@ Evaluate the model with the testing data.
 
 Use the trained model to predict  for a new input value .
 
-## PROGRAM
+## PROGRAM:
 
 ### Name:Parveen Sulthana J
 
@@ -132,15 +132,15 @@ print(f'Prediction: {prediction}')
 
 ```
 
-### Dataset Information
+### Dataset Information:
 <img width="193" height="459" alt="Excel Sheet" src="https://github.com/user-attachments/assets/a74a21ea-a5ca-47e2-a7dc-0992c4db194f" />
 
 
-### OUTPUT
-# InPut and Ouput:
+### OUTPUT:
+# Input and Ouput:
 <img width="308" height="273" alt="output" src="https://github.com/user-attachments/assets/d8c27d49-053e-4290-a9ee-8b38099b5b50" />
 
-# Epoch And Loss
+# Epoch And Loss:
 <img width="439" height="252" alt="Epochs" src="https://github.com/user-attachments/assets/9197e8f7-f1d0-4804-9580-6f4eb3b2e354" />
 
 # Test Loss
@@ -148,13 +148,13 @@ print(f'Prediction: {prediction}')
 
 
 
-### Training Loss Vs Iteration Plot
+### Training Loss Vs Iteration Plot:
 <img width="833" height="611" alt="Graph" src="https://github.com/user-attachments/assets/0672aec6-69a0-41a3-9874-e423a3b61ab6" />
 
 
-### New Sample Data Prediction
+### New Sample Data Prediction:
 <img width="428" height="44" alt="Predictions" src="https://github.com/user-attachments/assets/ebfb1671-39a6-4b24-9601-53028b22c92b" />
 
 
-## RESULT
+## RESULT:
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
